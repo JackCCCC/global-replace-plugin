@@ -1,0 +1,16 @@
+{
+    "name": "global-replace-plugin",
+    "version": "1.0.2",
+    "description": "自定义正则表达式，全局匹配并替换为指定的字符串",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "global",
+        "replace",
+        "plugin"
+    ],
+    "author": "CL",
+    "license": "ISC"
+}
